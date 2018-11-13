@@ -3,3 +3,4 @@ class WelcomeController < ApplicationController
         render json: { status: 200, message: "Auth API" }
       end
 end
+# something
